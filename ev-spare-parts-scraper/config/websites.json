@@ -1,0 +1,54 @@
+{
+  "marketplaces": [
+    {
+      "name": "Jiji Ethiopia",
+      "slug": "jiji",
+      "base_url": "https://jiji.com.et",
+      "category_url": "https://jiji.com.et/car-parts-and-accessories",
+      "search_url_template": "https://jiji.com.et/car-parts-and-accessories?query={query}&page={page}",
+      "general_search_template": "https://jiji.com.et/search?query={query}&page={page}",
+      "enabled": true,
+      "rate_limit_delay": 2.0,
+      "timeout": 20,
+      "max_pages": 5,
+      "robots_url": "https://jiji.com.et/robots.txt",
+      "selectors": {
+        "item_link": "a[href*='/car-parts-and-accessories/']",
+        "title": "h1.qa-advert-title, h1.b-advert-title, title",
+        "price": "span.qa-advert-price-view-value, div.qa-advert-price-view-title, div.b-alt-advert-price__text",
+        "seller_name": "div.b-seller-block__name",
+        "seller_location": "div.b-advert-info-statistics--region, div.b-advert-card__head-region",
+        "description": "div.qa-advert-description, div.b-advert__description-text",
+        "attributes": "div.b-advert-attribute",
+        "attribute_key": "div.b-advert-attribute__key",
+        "attribute_value": "div.b-advert-attribute__value",
+        "breadcrumbs": "ol.b-breadcrumbs li, [class*='breadcrumb']"
+      }
+    },
+    {
+      "name": "Adey Market",
+      "slug": "adey",
+      "base_url": "https://adey-market.com",
+      "category_url": "https://adey-market.com/categories/accessories",
+      "search_url_template": "https://adey-market.com/search?q={query}&page={page}",
+      "enabled": true,
+      "rate_limit_delay": 2.5,
+      "timeout": 20,
+      "max_pages": 3,
+      "robots_url": "https://adey-market.com/robots.txt",
+      "selectors": {
+        "item_link": "a[href*='/item/']",
+        "title": "h1, div[class*='title']",
+        "price": "div[class*='price'], span[class*='price']",
+        "seller_name": "div[class*='seller'], div[class*='user']",
+        "seller_location": "div[class*='location'], span[class*='location']",
+        "description": "div[class*='description'], p"
+      }
+    }
+  ],
+  "default_headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9,am;q=0.8"
+  }
+}

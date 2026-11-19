@@ -1,0 +1,554 @@
+﻿record_id,vehicle_model,model_year,part_category,part_position,listing_title,listing_description,advertised_price,currency,condition,availability_status,seller_name,seller_location,seller_contact_if_public,marketplace,listing_url,date_collected,advertised_compatibility,OEM_part_number,manufacturer_or_brand,source_evidence,confidence_level,manual_verification_required,audit_notes
+REC-JIJI-AF504243,BYD Seagull,,Brake pads,Unspecified,BYD Seagull &E2 Brake Pad ( በይድ ፍሬን ሸራ ),"Byd
+e2
+seagull 
+yuan plus 
+brake pad
+ፍሬን ሸራ 
+location lideta nobi complex chanoli noodles 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም ev መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",28000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-seagull-e2-brake-pad-bayede-fereene-sharaa-5HQGQVtnONjWbsIkoBukZmRD.html,2026-11-19T07:17:04+00:00,BYD Seagull (matched: 'byd seagull'),BYD Seagull,,Source: Jiji listing | Found alias 'byd seagull' in text | Matched keyword 'brake pad' (position: Unspecified),High,True,Unspecified model year
+REC-JIJI-960A92B7,BYD Seagull,,Headlights,Front,Byd Seagull Headlights(የፊት ማብራት ),"-BYD
+- seagull
+-E2
+ -Yuan up
+Song plus 
+- Head lamp 
+- Location lideta NOBI complex channoli noodles G 20
+-አድራሻ ልደታ ኖቢ ኮምፕሌክስ G 20
+-ማንኛውንም የEvመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ 
+- እንዲሁም የኤሌክትሪክ መኪና ።",84999.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-seagull-headlights-yafite-maaberaate-hmCTZTm45tb5ee74opDvjNx3.html,2026-11-19T07:17:09+00:00,BYD Seagull; BYD Yuan Up,Byd Seagull,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['byd seagull', 'yuan up']) | Matched keyword 'headlights' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-84C4FB71,BYD Seagull,,Headlights,Front,Byd E2 Head Light (የፊት ማብራት ),"Byd e2
+seagull 
+song plus 
+yuan up 
+leopard 
+front head lamp
+የፊት መብራት 
+location nobi complex chanoli noodles G 20
+አድራሻ ልደታ 
+ ማንኛውም የev መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",125000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-head-light-yafite-maaberaate-g7WHP2doL86JVpuQwusVnZHi.html,2026-11-19T07:17:13+00:00,BYD Seagull; BYD Yuan Up,Condition,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'yuan up']) | Matched keyword 'head light' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-356520DD,BYD Seagull,,Headlights,Front,Byd Yuan Up Head Light ( የፊት ማብራት ),"Yuan up
+Song plus 
+e2
+seagull 
+yuan plus
+Jetour x70plus 
+Jetour x90 plus 
+Jetour dashing 
+location lideta NOBI COMPLEX CHANOLI NOODLES G 20
+አድራሻ ልደ",159999.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-yuan-up-head-light-yafite-maaberaate-acQ3B0mqFXJrjfonWuWWlJMw.html,2026-11-19T07:17:15+00:00,BYD Seagull; BYD Yuan Up,Jetour x90,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'head light' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-2A50CA0A,BYD Seagull,,Headlights,Rear,Byd Yuan Up Center Light (የኮፈን ማብራት ),"Yuan up
+Song plus 
+e2
+seagull 
+yuan plus
+Jetour x70plus 
+Jetour x90 plus 
+Jetour dashing 
+location lideta NOBI COMPLEX CHANOLI NOODLES G 20
+አድራሻ ልደታ ኖቢ ኮምፕለክስ 
+መንኛሁንም የEV መኪና እኛ ጋር ያገኛሉ",189999.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-yuan-up-center-light-yakofane-maaberaate-de0oGoyo40mFl666RR5T1bve.html,2026-11-19T07:17:18+00:00,BYD Seagull; BYD Yuan Up,Jetour x90,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'headlights' (position: Rear)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-5E8C6868,BYD Seagull,,Fenders / body panels,Unspecified,BYD E2 Door Skeleton ( የጎን ባሮች ),"Byd door
+Toyota bz4x
+Byd 
+Yuan up 
+seagull 
+yuan plus 
+Door skeleton 
+የጎን ባሮች 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",195000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-door-skeleton-yagone-baaroce-cDSz3Z7T25psNoSZ1q2psbVN.html,2026-11-19T07:17:20+00:00,BYD Seagull; BYD Yuan Up,Toyota bz4x,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'door skeleton' (position: Unspecified)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-90FE01F5,BYD Seagull,,Tail lights,Rear,Byd E2 Tail Light( የጀርባ ማብራት ),"BYD 
+E2
+SEAGULL 
+Song plus
+ELECTRIC CAR
+Tail lights 
+የኋላ መብራት
+Location lideta NOBI complex channoli noodles 
+አድራሻ ልደታ ኖቢ ኮምፕለክሽ
+ ማንኛውም የEVመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",55000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-tail-light-yajarebaa-maaberaate-ubb4anWUu2whwVq4vBJKAjSG.html,2026-11-19T07:17:23+00:00,BYD Seagull (matched: 'seagull'),lideta NOBI,,Source: Jiji listing | Found alias 'seagull' in text | Matched keyword 'tail light' (position: Rear),Medium,True,Unspecified model year
+REC-JIJI-4E0A52EE,BYD Seagull,,Side mirrors,Unspecified,"Byd Seagull, Byd E2, Side Mirror","BYD Seagull, BYD E2, or BYD new",55000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-seagull-byd-e2-side-mirror-TOXmxewmHmGwmF94NsWYj8N.html,2026-11-19T07:17:25+00:00,BYD Seagull (matched: 'byd seagull'),Byd Seagull,,Source: Jiji listing | Found alias 'byd seagull' in text | Matched keyword 'side mirror' (position: Unspecified),High,True,Unspecified model year
+REC-JIJI-1AFC04FD,BYD Seagull,2024,Unclassified / Other,Unspecified,Byd Seagull Alloy Rim New,BYD Seagull alloy rim new 2024,65000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-seagull-alloy-rim-new-ywhfCf84xHxWXHO3xsiTiWPC.html,2026-11-19T07:17:28+00:00,BYD Seagull (matched: 'byd seagull'),Car Wheels,,Source: Jiji listing | Found alias 'byd seagull' in text | No matching spare part keywords found,Low,True,Unclassified part category; Low algorithm confidence score
+REC-JIJI-FB14A1A4,BYD Yuan Up,,Unclassified / Other,Unspecified,Byd Seagull Control Arm (ቢራቸው ),"Byd Seagull 
+Byd e2 
+byd song plus 
+byd yuan up 
+id 4
+id 6
+Control arm
+ቢራቸው 
+አድራሻ ልደታ ኖቢ ኮምፕለክስ 
+location lideta nobi complex chanoli noodles 
+ማንኛውንም የev መኪና ዕቃ መለዋወጫ እኛ ጋር ያገኛሉ",42500.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-seagull-control-arm-biraacawe-uEM01V4uFIjq2yyQahzVqQuf.html,2026-11-19T07:17:30+00:00,BYD Yuan Up; Volkswagen ID.6,BYD Vehicle,,"Source: Jiji listing | Multiple models claimed: BYD Yuan Up; Volkswagen ID.6 (aliases: ['byd yuan up', 'id.6']) | No matching spare part keywords found",Low,True,Unspecified model year; Unclassified part category; Multi-vehicle fitment claimed by seller; Low algorithm confidence score
+REC-JIJI-64644C0C,BYD Yuan Up,,Unclassified / Other,Unspecified,Byd E2 Windshield (የግንባር መስታወት ),"BYD E2
+BYD Seagull 
+BYD Yuan up 
+Byd song plus 
+Windshield 
+Door Glass
+የበር መስታዎት
+Location lideta NOBI complex 
+አድራሻ ልደታ ኖቢ ኮምፕለክስ 
+ ማንኛውም የ EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",190000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta, 58 min ago 358 views",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-windshield-yagenebaare-masetaawate-2R5AqbCgephkNl8LS9aaatCp.html,2026-11-19T07:17:32+00:00,BYD Yuan Up (matched: 'byd yuan up'),BYD Vehicle,,Source: Jiji listing | Found alias 'byd yuan up' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-34AEDE03,BYD Seagull,,Headlights,Front,Byd Yuan Plus Head Light,"BYD
+Yuan up
+Yuan plus
+Song plus
+E2
+Seagull 
+Head light 
+የፊት ማህበራት
+Location NOBI COMPLEX CHANOLI NOODLES
+አድራሻ ልደታ ንብ ኮምፒሌክስ ቻኖሊ ኒጽልስ 
+ ማንኛውም የመኪና እቃ መለዋወጫ እና የኤሌክትሪክ መኪና እቃ እኛ ጋር
+ ያገሉ",180000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-yuan-plus-head-light-yNFaPY1azQnRnh6BE6YBhG5.html,2026-11-19T07:17:35+00:00,BYD Seagull; BYD Yuan Up,Condition,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'head light' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-A203EC06,BYD Yuan Up,,Headlights,Unspecified,Byd Song Plus Head Lamp( 9 Pin),"Song plus 
+Yuan up 
+e2
+seagull 
+yuan plus
+Jetour x70plus 
+Jetour x90 plus 
+Jetour dashing 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም የEvመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",240000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-song-plus-head-lamp-9-pin-BpXRY0NHPsCleZWXgW4P4qyG.html,2026-11-19T07:17:38+00:00,BYD Yuan Up (matched: 'yuan up'),Jetour x90,,Source: Jiji listing | Found alias 'yuan up' in text | Matched keyword 'headlights' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-3DD8567B,BYD Seagull,,Unclassified / Other,Unspecified,BYD E2 Driver Airbag ( ማር አእርባግ ),"Byd e2 
+Toyota bz4x
+Byd 
+Yuan up 
+seagull 
+yuan plus 
+Driver Airbag
+ማር አእርባግ 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",120000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta, 59 min ago 436 views",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-driver-airbag-maare-aerebaage-u9OcRAnMhKsRraedo7vRZ73L.html,2026-11-19T07:17:41+00:00,BYD Seagull; BYD Yuan Up,BYD Vehicle,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | No matching spare part keywords found",Low,True,Unspecified model year; Unclassified part category; Multi-vehicle fitment claimed by seller; Low algorithm confidence score
+REC-JIJI-7B2FD706,BYD Seagull,,Bumpers (front and rear),Rear,Byd Yuan Up Rear Bumper (የዉሃላ ፓራወልት ) Ashe Ev Spare,"Yuan up
+Song plus 
+e2
+seagull 
+yuan plus
+Jetour x70plus 
+Jetour x90 plus 
+Jetour dashing 
+location lideta NOBI COMPLEX CHANOLI NOODLES G 20
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም የEvመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",168000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-yuan-up-rear-bumper-yawuhaalaa-paaraawalete-ashe-ev-spare-xoOU841zeATetRHtye69GygM.html,2026-11-19T07:17:43+00:00,BYD Seagull; BYD Yuan Up,Jetour x90,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'rear bumper' (position: Rear)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-71052316,BYD Yuan Up,,Side mirrors,Unspecified,Byd Seagull Side Mirror(የጎን እስፖርኪው),"BYD SEAGULL SIDE MIRROR 
+Byd E2
+Byd song plus 
+Byd Yuan up 
+ID 4
+ID 6
+side mirror 
+የጎን ስፖክኪው 
+አድራሻ ልደታ ኮንዶሚኒየም 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+ማንኛውንም የEv መኪና ዕቃ መለዋወጫ እኛ ጋር ያገኛሉ",48000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-seagull-side-mirror-yagone-eseporekiwe-3KPt5BMovFkA6QOoDx4SMbKI.html,2026-11-19T07:17:45+00:00,BYD Yuan Up; Volkswagen ID.6,Byd Seagull,,"Source: Jiji listing | Multiple models claimed: BYD Yuan Up; Volkswagen ID.6 (aliases: ['byd yuan up', 'id.6']) | Matched keyword 'side mirror' (position: Unspecified)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-45804A6D,BYD Seagull,,Fenders / body panels,Unspecified,BYD Segul Fender Designed as Exterior Body Trim for the BYD Seagull,BYD Segul designed as exterior body trim for the BYD Seagull fender,22000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta, 57 min ago 107 views",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-segul-fender-designed-as-exterior-body-trim-for-the-byd-seagull-tsLh4eOnwQAEiPet2aawTv1f.html,2026-11-19T07:17:48+00:00,BYD Seagull (matched: 'byd seagull'),for the BYD,,Source: Jiji listing | Found alias 'byd seagull' in text | Matched keyword 'fender' (position: Unspecified),High,True,Unspecified model year
+REC-JIJI-C91F50F8,BYD Yuan Up,,Unclassified / Other,Front,Byd Seagull Engine Hood ( የፊት ኮፈን ),"Byd seagull 
+Byd e2
+byd song plus 
+byd yuan up 
+id 4
+id 6
+Engine hood 
+የፊት ኮፈን 
+አድራሻ ልደታ ኖቢ ኮምፕለክስ 
+location lideta nobi complex chanoli noodles 
+ማንኛውንም የev መኪና ዕቃ መለዋወጫ እኛ ጋር ያገኛሉ",160000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-seagull-engine-hood-yafite-kofane-zMpCQ90COdw6PFvmWUw9K9pl.html,2026-11-19T07:17:50+00:00,BYD Yuan Up; Volkswagen ID.6,BYD Vehicle,,"Source: Jiji listing | Multiple models claimed: BYD Yuan Up; Volkswagen ID.6 (aliases: ['byd yuan up', 'id.6']) | No matching spare part keywords found",Low,True,Unspecified model year; Unclassified part category; Multi-vehicle fitment claimed by seller; Low algorithm confidence score
+REC-JIJI-2765531C,BYD Yuan Up,,Bumpers (front and rear),Front,Byd Song Plus Front Bumper (የፊት ፓራወልት ),"Song plus 
+Yuan up 
+e2
+seagull 
+yuan plus
+Jetour x70plus 
+Jetour x90 plus 
+Jetour dashing 
+location lideta NOBI COMPLEX CHANOLI NOODLES G 20
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም የEvመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",210000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-song-plus-front-bumper-yafite-paaraawalete-zEjjyYwkzoJ5XzZmRfCGWKDx.html,2026-11-19T07:17:53+00:00,BYD Yuan Up (matched: 'yuan up'),Jetour x90,,Source: Jiji listing | Found alias 'yuan up' in text | Matched keyword 'front bumper' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-5671F7AF,BYD Seagull,,Fenders / body panels,Unspecified,Byd E2 Fender ( ፈረፋንጎ ),"Byd 
+e2
+seagull 
+yuan
+electric car
+fender
+(ferefango)
+location lideta nobi complex channoli G 20
+አድራሻ ልደታ ኖቢ ኮምፕሌክስ 
+ ማንኛውም የEvመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",57000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta, 53 min ago 117 views",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-fender-farafaanego-xuzj2DvRMxZmqzSlzWY64MtO.html,2026-11-19T07:17:55+00:00,BYD Seagull (matched: 'seagull'),"car
+fender",,Source: Jiji listing | Found alias 'seagull' in text | Matched keyword 'fender' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-75AD85EB,BYD Seagull,,Bumpers (front and rear),Front,Byd Front Complete Bumper (የፊት ሙሉ ፓራኦልት),"Byd 
+e2
+seagull 
+yuan
+electric car
+የ ፊት ፓራኦልት ሙሉ
+front bumper complete 
+location lideta condominium 
+አድራሻ ልደታ ኮንደምኔም
+ ማንኛውም የEVመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",169999.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-front-complete-bumper-yafite-mulu-paaraaolete-CsxxqGl0Zzgx8tKA55rOX6L2.html,2026-11-19T07:17:58+00:00,BYD Seagull (matched: 'seagull'),Condition,,Source: Jiji listing | Found alias 'seagull' in text | Matched keyword 'bumper' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-8F3EB8B9,BYD Seagull,,Bumpers (front and rear),Front,Byd Yuan Up Front Bumper (የፊት ሙሉ ፓራኦልት),"Byd 
+Yuan up 
+e2
+seagull 
+yuan
+electric car
+front bumper complete 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ንብ ኮምፒሌክስ ቻኖሊ ኒጽልስ 
+ ማንኛውም የEVመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",169999.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-yuan-up-front-bumper-yafite-mulu-paaraaolete-tVay8iz3Aa7NDSvXJhebEb6D.html,2026-11-19T07:18:00+00:00,BYD Seagull; BYD Yuan Up,lideta NOBI,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'front bumper' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-6349F403,BYD Seagull,,Headlights,Rear,Byd E2 Tailgate Light (የኮፌን ማብራት),"Byd e2
+seagull 
+song plus 
+yuan up 
+leopard 
+Tailgate light ( center light)
+የኋላ ኮፈን ማብራት
+location nobi complex chanoli noodles 
+አድራሻ ልደታ ንብ ኮምፒሌክስ ቻኖሊ ኒጽልስ
+ ማንኛውም የev መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",129999.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-tailgate-light-yakofeene-maaberaate-8dgaRlSNbxC0hyew2i68jIUb.html,2026-11-19T07:18:06+00:00,BYD Seagull; BYD Yuan Up,Condition,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'yuan up']) | Matched keyword 'headlights' (position: Rear)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-A829E19A,BYD Seagull,,Shock absorbers,Unspecified,Jetour X70+ Suspension (አሞርዛተር ),"Jetour x70plus 
+Jetour x90 plus 
+Jetour dashing 
+Byd 
+Yuan up 
+e2
+seagull 
+yuan ፕሉስ
+Suspension ( shock absorber )
+(አሞርዛተር )
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ንብ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም የመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",58000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/jetour-x70-suspension-amorezaatare-cpkVFqEmwJERTKk1fBIPMpuk.html,2026-11-19T07:18:09+00:00,BYD Seagull; BYD Yuan Up,Jetour X70,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'አሞርዛተር' (position: Unspecified)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-467A0DE9,BYD Seagull,,Fenders / body panels,Unspecified,Bz4x Fender ( ፈረፋንጎ ),"Toyota bz4x
+Byd 
+Yuan up 
+e2
+seagull 
+yuan plus 
+Fender 
+ፈረፋንጎ 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",65000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/bz4x-fender-farafaanego-oFWxgpeieGnyjGjmBfkfVHNX.html,2026-11-19T07:18:11+00:00,BYD Seagull; BYD Yuan Up,Toyota bz4x,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'fender' (position: Unspecified)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-A094D898,BYD Seagull,,Unclassified / Other,Front,Toyota Bz4x Engine Hood (የፊት ኮፈን ),"Toyota bz4x
+Byd 
+Yuan up 
+e2
+seagull 
+yuan plus 
+Engine hood 
+የፊት ኮፈን 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",220000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/toyota-bz4x-engine-hood-yafite-kofane-nlvFn5mgzhcgqmlPy37n7W54.html,2026-11-19T07:18:14+00:00,BYD Seagull; BYD Yuan Up,BYD Vehicle,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | No matching spare part keywords found",Low,True,Unspecified model year; Unclassified part category; Multi-vehicle fitment claimed by seller; Low algorithm confidence score
+REC-JIJI-120E5CE1,BYD Seagull,,Unclassified / Other,Unspecified,175 55 R16 for Byd Seagull Car Tyre Triangle Brand,"175 55 r16
+Triangle brand 
+Best quality tyre 
+Better life time 
+for byd seagull car tyre triangle brand",13000.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/175-55-r16-for-byd-seagull-car-tyre-triangle-brand-n7kPEaXqmGhYvglCFAOl4B2F.html,2026-11-19T07:18:16+00:00,BYD Seagull (matched: 'byd seagull'),BYD Seagull,,Source: Jiji listing | Found alias 'byd seagull' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-C190BD48,BYD Seagull,,Unclassified / Other,Unspecified,Car Tyre Goma,"205 55 R16 Roadx tyre 
+for byd seagull and other cars tyre 092XXXXXXX",12300.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/car-tyre-goma-spn5LrRdTjoAFoL7S68TAXIR.html,2026-11-19T07:18:18+00:00,BYD Seagull (matched: 'byd seagull'),BYD Vehicle,,Source: Jiji listing | Found alias 'byd seagull' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-1930AEC6,BYD Seagull,,Unclassified / Other,Unspecified,175 55 R16 Ev Byd Seagull Car Tyre,"175 55 r16 ev 
+Linglong tyre 
+Best quality for ev cars 
+Premium quality",14000.0,ETB,new,available,Tire Store,"Addis Ababa, Addis Ketema, 04/09 61 views",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/175-55-r16-ev-byd-seagull-car-tyre-wrcc1xv9uKSeegSwn0bR0486.html,2026-11-19T07:18:21+00:00,BYD Seagull (matched: 'byd seagull'),BYD Vehicle,,Source: Jiji listing | Found alias 'byd seagull' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-54B258E2,BYD Seagull,,Bumpers (front and rear),Front,Bz4x Front Bumper ( የፊት ፓራወልት ),"Toyota bz4x
+Byd 
+Yuan up 
+e2
+seagull 
+yuan plus 
+Front bumper 
+የፊት ፓራወልት 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",220000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta, 57 min ago 76 views",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/bz4x-front-bumper-yafite-paaraawalete-cDx9QgDVyM8eYZVfgGI7lYtj.html,2026-11-19T07:18:26+00:00,BYD Seagull; BYD Yuan Up,Toyota bz4x,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'front bumper' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-BB0544AB,BYD Seagull,,Brake pads,Front,Bz4x Brake Pad (የፊት ፍሬን ሸራ ),"Toyota bz4x
+Byd 
+Yuan up 
+e2
+seagull 
+yuan plus 
+Brake pad
+ፍሬን ሸራ 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",28000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/bz4x-brake-pad-yafite-fereene-sharaa-CdqxjdlbjQOSiPMgkx7x5Ta3.html,2026-11-19T07:18:28+00:00,BYD Seagull; BYD Yuan Up,Toyota bz4x,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'brake pad' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-AEADACBA,BYD Seagull,,Headlights,Front,Jetour X70plus Head Lamp(የፊት ማብራት),"Jetour x70plus 
+Jetour x90 plus 
+Jetour dashing 
+Byd 
+Yuan up 
+e2
+seagull 
+yuan plus
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ንብ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም የመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",84999.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/jetour-x70plus-head-lamp-yafite-maaberaate-hSZG1O7lVIkiHd629KzzW30X.html,2026-11-19T07:18:31+00:00,BYD Seagull; BYD Yuan Up,Jetour x90,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'የፊት ማብራት' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-145C4BA5,BYD Seagull,,Unclassified / Other,Unspecified,175 55 R16 Triangle Brand for Byd Seagull,175 55 r16 triangle brand for byd seagull,13500.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/175-55-r16-triangle-brand-for-byd-seagull-fFoVBtxoITwbuSUhOTcdsD9B.html,2026-11-19T07:18:33+00:00,BYD Seagull (matched: 'byd seagull'),BYD Seagull,,Source: Jiji listing | Found alias 'byd seagull' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-738BB6D2,BYD Seagull,,Unclassified / Other,Unspecified,175 55 R16 Ev Byd Seagull Car Tyre,"175 55 r16 ev 
+Linglong tyre
+byd seagull car tyre
+Ev special tyre",14000.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/175-55-r16-ev-byd-seagull-car-tyre-8xdiDFB4azScDSaf2av9aZjU.html,2026-11-19T07:18:36+00:00,BYD Seagull (matched: 'byd seagull'),BYD Vehicle,,Source: Jiji listing | Found alias 'byd seagull' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-7190C143,BYD Seagull,,Unclassified / Other,Unspecified,Byd Key Cover,"Key cover for byd vehichles Seagull, E2, Yuan up, Yuan plus, song plus, tang l",3300.0,ETB,new,available,Yohannes,"Addis Ababa, Nifas Silk-Lafto, 07/11 56 views",,Jiji Ethiopia,https://jiji.com.et/nifas-silk-lafto/car-parts-and-accessories/byd-key-cover-eUdCsCnBhtojVRMhxPO88v1y.html,2026-11-19T07:18:38+00:00,BYD Seagull; BYD Yuan Up,Car Covers,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'yuan up']) | No matching spare part keywords found",Low,True,Unspecified model year; Unclassified part category; Multi-vehicle fitment claimed by seller; Low algorithm confidence score
+REC-JIJI-BDD97D58,BYD Seagull,,Bumpers (front and rear),Front,Byd Seagull,BYD front bumper full Assembly,95000.0,ETB,new,available,MJ,"Addis Ababa, Lideta, 17/10 36 views",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-seagull-cZPttUici7tG9xObiYUIxEov.html,2026-11-19T07:18:41+00:00,BYD Seagull (matched: 'byd seagull'),Byd Seagull,,Source: Jiji listing | Found alias 'byd seagull' in text | Matched keyword 'front bumper' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-CBDB3998,BYD Seagull,,Shock absorbers,Front,Bz4x Front Suspension ( የፊት አሞርዛተር ),"Toyota bz4x
+Byd 
+Yuan up 
+e2
+seagull 
+yuan plus 
+Suspension 
+አሞርዛተር 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",70000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/bz4x-front-suspension-yafite-amorezaatare-A41X6Xh9fzay6FrlzJ9m2VqW.html,2026-11-19T07:18:43+00:00,BYD Seagull; BYD Yuan Up,Suspension,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'አሞርዛተር' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-02303042,BYD Seagull,,Unclassified / Other,Unspecified,EV-Plus Dry E-Motor Transmission Oil,"Byd ev 2.0 dry-type transmission fluid / bot 384
+byd (seagull / dolphin mini, dolphin, atto 3 / yuan plus, yuan up, e2, qin plus ev, seal, song plus ev, han ev, tang ev)
+denza (denza d9, denza n7 — dry-motor variants)
+fangchengbao (leopard) & yangwang (selected dry-motor auxiliary units)
+volkswagen id. series (id.3, id.4, id.6 — 
+geely / geometry / zeekr (geometry c, geometry e, geely galaxy e5)
+chery / omoda / jaecoo (chery eq1, icar 03, omoda e5)
+mg (saic) (mg4 ev, mg zs ev)
+gac aion (aion y, aion s)
+wuling / baojun (wuling bingo, air ev)
+nissan / hyundai / kia (nissan leaf, hyundai kona ev, kia niro ev — Show more",20000.0,ETB,new,available,Fasil Alemseged,"Promoted Addis Ababa, Bole",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/ev-plus-dry-e-motor-transmission-oil-7XX52TDiPbkDrJTQuw8C8fF1.html,2026-11-19T07:18:46+00:00,BYD Seagull; BYD Yuan Up; Volkswagen ID.6,Condition,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up; Volkswagen ID.6 (aliases: ['seagull', 'yuan up', 'id.6']) | No matching spare part keywords found",Low,True,Unspecified model year; Unclassified part category; Multi-vehicle fitment claimed by seller; Low algorithm confidence score
+REC-JIJI-55201EFA,BYD Seagull,,Headlights,Front,Bz4x Head Light (የፊት መብራት),"Toyota bz4x
+Byd 
+Yuan up 
+e2
+seagull 
+yuan plus 
+Head light 
+location lideta NOBI COMPLEX CHANOLI NOODLES 
+አድራሻ ልደታ ኖቢ ኮምፒሌክስ ቻኖሊ ኑጽልስ 
+ ማንኛውም EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",218000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/bz4x-head-light-yafite-maberaate-fXxwaHZDa2dMDsORmVzTv2bj.html,2026-11-19T07:18:48+00:00,BYD Seagull; BYD Yuan Up,Toyota bz4x,,"Source: Jiji listing | Multiple models claimed: BYD Seagull; BYD Yuan Up (aliases: ['seagull', 'byd yuan up']) | Matched keyword 'head light' (position: Front)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-37C1B6CC,BYD Seagull,,Unclassified / Other,Unspecified,175 55 R16 Byd Seagull Car Tyre Triangle,"175 55 r16 
+Byd seagull 
+car tyre 
+Triangle brand",13000.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/175-55-r16-byd-seagull-car-tyre-triangle-jOXhhA8IZKtRz9mhlFmjhEeq.html,2026-11-19T07:18:51+00:00,BYD Seagull (matched: 'byd seagull'),BYD Seagull,,Source: Jiji listing | Found alias 'byd seagull' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-D5392674,BYD Seagull,,Unclassified / Other,Unspecified,BYD Seagull 175/55 R16 Tyres With Rims | Addis Ababa,"byd seagull 175/55 r16 tyres with rims for sale! 
+looking for tyres and rims for your byd seagull electric car? we can help! 
+ tyre size: 175/55 r16
+ vehicle: byd seagull
+ product: tyres with rims
+ suitable for replacement when fitment is confirmed.
+ price: [________] etb
+ location: addis ababa, ethiopia
+ delivery: delivery options available in addis ababa.
+ give your byd seagull the wheels it needs!
+ message us on facebook messenger for the price, available stock, and photos.
+ contact us today to place your order!
+#bydseagull #17555r16 #bydtyres #bydrims #electriccar #tyresforsale #addisababa #ethiopia Show more",50000.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/byd-seagull-175-55-r16-tyres-with-rims-addis-ababa-5DPK0dPPNrhi4eLGG3jQK1NT.html,2026-11-19T07:18:53+00:00,BYD Seagull (matched: 'byd seagull'),BYD Vehicle,,Source: Jiji listing | Found alias 'byd seagull' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-EC57CFD7,BYD Seagull,,Bumpers (front and rear),Rear,Byd Seagull Tail Gate የኋላ ኮፈን,Brand new BYD Seagull tail gate yehuala kofen ( የኋላ ኮፈን ),150000.0,ETB,new,available,Kaleab,"Addis Ababa, Arada, 29/09 111 views",,Jiji Ethiopia,https://jiji.com.et/arada/car-parts-and-accessories/byd-seagull-tail-gate-yaxwaalaa-kofane-1apxO0csawowQcWG19vm5Xnl.html,2026-11-19T07:18:55+00:00,BYD Seagull (matched: 'byd seagull'),Byd Seagull,,Source: Jiji listing | Found alias 'byd seagull' in text | Matched keyword 'bumpers' (position: Rear),Medium,True,Unspecified model year
+REC-JIJI-3973D5E5,BYD Seagull,,Headlights,Unspecified,Byd Seagull Headlight,Brand new headlight for byd seagulls 2023_2025,82000.0,ETB,new,available,Leuel,"Addis Ababa, Bole, 24/10 54 views",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/byd-seagull-headlight-3o7Krj7lcsSQawoGeZLM9gXN.html,2026-11-19T07:18:58+00:00,BYD Seagull (matched: 'byd seagull'),Byd Seagull,,Source: Jiji listing | Found alias 'byd seagull' in text | Matched keyword 'headlight' (position: Unspecified),High,True,Unspecified model year
+REC-JIJI-17DBFDC0,BYD Yuan Up,,Side mirrors,Unspecified,BYD Yuan Up Original Side Mirror With BSD Sensor,Original product can be verified through QR code.,12000.0,ETB,new,available,Haymanot,"Addis Ababa, Bole",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/byd-yuan-up-original-side-mirror-with-bsd-sensor-3b0gHl3zAtFWLAdCparCk3cL.html,2026-11-19T07:19:07+00:00,BYD Yuan Up (matched: 'byd yuan up'),Mirror With,Original / OEM,Source: Jiji listing | Found alias 'byd yuan up' in text | Matched keyword 'side mirror' (position: Unspecified),High,True,Unspecified model year
+REC-JIJI-E5159413,BYD Yuan Up,,Unclassified / Other,Unspecified,Byd E2 Control Arm (ቢራቸው ),"Byd e2
+byd song plus 
+byd yuan up 
+id 4
+id 6
+Control arm
+ቢራቸው 
+አድራሻ ልደታ ኖቢ ኮምፕለክስ 
+location lideta nobi complex chanoli noodles 
+ማንኛውንም የev መኪና ዕቃ መለዋወጫ እኛ ጋር ያገኛሉ",43500.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-control-arm-biraacawe-oTt8TmYIH3H0r6CQ3uHzW49u.html,2026-11-19T07:19:09+00:00,BYD Yuan Up; Volkswagen ID.6,BYD Vehicle,,"Source: Jiji listing | Multiple models claimed: BYD Yuan Up; Volkswagen ID.6 (aliases: ['byd yuan up', 'id.6']) | No matching spare part keywords found",Low,True,Unspecified model year; Unclassified part category; Multi-vehicle fitment claimed by seller; Low algorithm confidence score
+REC-JIJI-3BEF345E,BYD Yuan Up,,Bumpers (front and rear),Front,BYD Yuan Up Front Bunper Original New,BYD Yuan UP front bumper new original,185000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-yuan-up-front-bunper-original-new-hVBsnXVReZ1jxGLBItv22Gd3.html,2026-11-19T07:19:12+00:00,BYD Yuan Up (matched: 'byd yuan up'),New BYD Yuan,Original / OEM,Source: Jiji listing | Found alias 'byd yuan up' in text | Matched keyword 'front bumper' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-F270EB6B,BYD Yuan Up,,Tail lights,Unspecified,Byd Yuan Up Taillights,BYD Yuan UP electric taillights new,170000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-yuan-up-taillights-iOeDLez51gfA1jg1nsgjLQC4.html,2026-11-19T07:19:14+00:00,BYD Yuan Up (matched: 'byd yuan up'),Taillights,,Source: Jiji listing | Found alias 'byd yuan up' in text | Matched keyword 'taillights' (position: Unspecified),High,True,Unspecified model year
+REC-JIJI-FE2DEABF,BYD Yuan Up,,Fenders / body panels,Front,"Front Fender Panel for a Vehicle, Possibly a White BYD Yuan Up","Front fender panel for a vehicle, possibly a white BYD Yuan Upnew",55200.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/front-fender-panel-for-a-vehicle-possibly-a-white-byd-yuan-up-psHrRhAOHrhtGMUAzPryvWa2.html,2026-11-19T07:19:17+00:00,BYD Yuan Up (matched: 'byd yuan up'),Condition,,Source: Jiji listing | Found alias 'byd yuan up' in text | Matched keyword 'front fender' (position: Front),High,True,Unspecified model year
+REC-JIJI-BB1CE232,BYD Yuan Up,,Fenders / body panels,Unspecified,Byd E2 Door Skeleton ( የጃርባ ኮፈን ),"Byd e2
+byd song plus 
+byd yuan up 
+id 4
+id 6
+side mirror 
+የጃርባ ኮፈን 
+አድራሻ ልደታ ኖቢ ኮምፕለክስ 
+location lideta nobi complex chanoli noodles 
+ማንኛውንም የev መኪና ዕቃ መለዋወጫ እኛ ጋር ያገኛሉ",238000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/byd-e2-door-skeleton-yajaarebaa-kofane-rpr4TfeoZjjiRgPDG6gCr8pq.html,2026-11-19T07:19:19+00:00,BYD Yuan Up; Volkswagen ID.6,lideta nobi,,"Source: Jiji listing | Multiple models claimed: BYD Yuan Up; Volkswagen ID.6 (aliases: ['byd yuan up', 'id.6']) | Matched keyword 'door skeleton' (position: Unspecified)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-4769718D,BYD Yuan Up,,Unclassified / Other,Unspecified,215 65 R16 for Byd Yuan Up and Other Cars Tyre,"215 65 r16
+Roadx 
+for byd yuan up and other cars tyre
+Premium quality tyre",17500.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/215-65-r16-for-byd-yuan-up-and-other-cars-tyre-g0o4JZrfC7xHVTeqeGOz9taq.html,2026-11-19T07:19:24+00:00,BYD Yuan Up (matched: 'byd yuan up'),BYD Vehicle,,Source: Jiji listing | Found alias 'byd yuan up' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-A1947F1A,BYD Yuan Up,,Unclassified / Other,Unspecified,Byd Yuan Up Tyre Locker,Tyre lock for byd yuan up car,11000.0,ETB,new,available,Roz Car Decor | ሮዝ የመኪና ጌጣጌጥ,"Addis Ababa, Bole, 10/10 20 views",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/byd-yuan-up-tyre-locker-5wHVj3BYayPyE74BQMbm9m5z.html,2026-11-19T07:19:26+00:00,BYD Yuan Up (matched: 'byd yuan up'),BYD Vehicle,,Source: Jiji listing | Found alias 'byd yuan up' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-61B77BD1,BYD Yuan Up,,Side mirrors,Unspecified,Jetur X70+ Side Mirror (የጎን ስፖክይ),"Jetur x70
+jetur x70+
+jetur 90
+jetur dashing 
+Byd E2
+Byd song plus 
+Byd Yuan up 
+Bz4x 
+ID 4
+ID 6
+side mirror 
+የጎን ስፖክኪው 
+አድራሻ ልደታ ኮንዶሚኒየም 
+location lideta condominium 
+ማንኛውንም የመኪና ዕቃ መለዋወጫ እኛ ጋር ያገኛሉ",80000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/jetur-x70-side-mirror-yagone-sepokeye-BKKoXrpRKtqkBysCThQPmLIr.html,2026-11-19T07:19:29+00:00,BYD Yuan Up; Volkswagen ID.6,Condition,,"Source: Jiji listing | Multiple models claimed: BYD Yuan Up; Volkswagen ID.6 (aliases: ['byd yuan up', 'id.6']) | Matched keyword 'side mirror' (position: Unspecified)",Medium,True,Unspecified model year; Multi-vehicle fitment claimed by seller
+REC-JIJI-60A883F9,BYD Yuan Up,2025,Unclassified / Other,Unspecified,Byd Yuan Up Smart for Rent ኪራይ,"Car for rent 
+ BYD YUAN UP SMART – 2025",5000.0,ETB,new,available,Mikiy Getahun,"Addis Ababa, Arada, 21/09 21 views",,Jiji Ethiopia,https://jiji.com.et/arada/car-parts-and-accessories/byd-yuan-up-smart-for-rent-kiraaye-BYgYihrIpMuV7y6fBXRKtRse.html,2026-11-19T07:19:32+00:00,BYD Yuan Up (matched: 'byd yuan up'),Condition,,Source: Jiji listing | Found alias 'byd yuan up' in text | No matching spare part keywords found,Low,True,Unclassified part category; Low algorithm confidence score
+REC-JIJI-803BA78C,BYD Yuan Up,,Bumpers (front and rear),Unspecified,Byd Yuan Up Rer Bumper,Byd yuan up rer bumper orginal,200000.0,ETB,new,available,Spare Part,"Addis Ababa, Gullele, 10/09 31 views",,Jiji Ethiopia,https://jiji.com.et/gullele/car-parts-and-accessories/byd-yuan-up-rer-bumper-BWD4W0O8N2hbI0o5TGeISRDA.html,2026-11-19T07:19:34+00:00,BYD Yuan Up (matched: 'byd yuan up'),Rer Bumper,,Source: Jiji listing | Found alias 'byd yuan up' in text | Matched keyword 'bumper' (position: Unspecified),High,True,Unspecified model year
+REC-JIJI-1875D0A0,BYD Yuan Up,,Unclassified / Other,Unspecified,Byd Car Key Cases | Byd የቁልፍ መያዣዎች,"Byd car key cases | byd የቁልፍ መያዣዎች 
+byd seagul
+byd e2
+byd song plus
+byd yuan up
+for any byd cars
+ ዋጋ 2000
+free delivery",2000.0,ETB,new,available,Roz Car Decor | ሮዝ የመኪና ጌጣጌጥ,"Addis Ababa, Bole, 10/10 32 views",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/byd-car-key-cases-byd-yaqulefe-mayaazhaawoce-hsVkMJxH996P7RQIzAmw6XpB.html,2026-11-19T07:19:36+00:00,BYD Yuan Up (matched: 'byd yuan up'),BYD Vehicle,,Source: Jiji listing | Found alias 'byd yuan up' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-8A5357A9,Volkswagen ID.6,,Fenders / body panels,Unspecified,Volkswagen ID6 Door Skeleton (የጎን በር ),"Volkswagen 
+ID.6
+ID.4
+Door skeleton 
+የጎን በር
+Location lideta nobi complex 
+አድራሻ ልደታ ኖቢ ኮምፕሌክስ 
+ ማንኛውም የEVመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",240000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/volkswagen-id6-door-skeleton-yagone-bare-bexO00mtWgUZaWgNMmULYS0u.html,2026-11-19T07:19:42+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | Matched keyword 'door skeleton' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-5B5D8196,Volkswagen ID.6,,Shock absorbers,Front,Volkswagen ID6 /ID4 Front Suspension (የፊት አሞርዛተር (,"Volkswagen 
+ID.4
+ID.6
+Suspension 
+አሞርዛተር 
+Location lideta nobi complex 
+አድራሻ ልደታ ኖቢ ኮምፕሌክስ 
+ ማንኛውም የEVመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",65000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta, 55 min ago 46 views",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/volkswagen-id6-id4-front-suspension-yafite-amorezaatare-9WAjpcMOIcoNpCA3H2G8XRko.html,2026-11-19T07:19:44+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | Matched keyword 'አሞርዛተር' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-1F8A4082,Volkswagen ID.6,,Tail lights,Rear,Volkswagen ID4/ID6 Tail Light ( የዋላ ፊረቻ ),"Volkswagen 
+ID.4
+ID.6
+Tail light 
+Location lideta
+አድራሻ ልደታ 
+ ማንኛውም የ EV መኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",85000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/volkswagen-id4-id6-tail-light-yawaalaa-firacaa-2VYBkFqFBccraMZ4ijjY3ktx.html,2026-11-19T07:19:46+00:00,Volkswagen ID.6 (matched: 'id.6'),Volkswagen,,Source: Jiji listing | Found alias 'id.6' in text | Matched keyword 'tail light' (position: Rear),Medium,True,Unspecified model year
+REC-JIJI-734CDC15,Volkswagen ID.6,,Unclassified / Other,Unspecified,Tire New ID4 /ID6 Original,Tire ID4 /ID6 new Original,95000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/tire-new-id4-id6-original-kOd7A1np836cATKNnNecOkPW.html,2026-11-19T07:19:49+00:00,Volkswagen ID.6 (matched: 'id.6'),Condition,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-57B08558,Volkswagen ID.6,,Bumpers (front and rear),Unspecified,ID6 Bunper New Original,ID6 Car Bumper new original,240000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id6-bunper-new-original-sBGOjri4adO63KDE7kkH6Inp.html,2026-11-19T07:19:51+00:00,Volkswagen ID.6 (matched: 'id.6'),ID6 Bunper,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | Matched keyword 'bumper' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-A1159800,Volkswagen ID.6,,Bumpers (front and rear),Unspecified,ID6 Bunper New Original,ID6 Bumper new original,280000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id6-bunper-new-original-uVoA93efQ8W4LX6pETNZMLsZ.html,2026-11-19T07:19:54+00:00,Volkswagen ID.6 (matched: 'id.6'),ID6 Bunper,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | Matched keyword 'bumper' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-F68BA615,Volkswagen ID.6,,Unclassified / Other,Unspecified,Engine Hood Hinge New Original,"Engine Hood Hinge L"" and ""CAR: ID6"" (left-side hood new",25000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/engine-hood-hinge-new-original-n4cwBzVhZfYBuGvdvkJV6Yp6.html,2026-11-19T07:19:56+00:00,Volkswagen ID.6 (matched: 'id.6'),Engine Hood,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-5320E6AB,Volkswagen ID.6,,Unclassified / Other,Unspecified,Roadx Tyres,"235 50 R20 Roadx 
+For Volkswagen id6 and id4 cars and we have other cars tyre 092XXXXXXX",27000.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/roadx-tyres-hMn92A2OXTPcjMiTuKgEr00h.html,2026-11-19T07:19:59+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-40B9B58C,Volkswagen ID.6,,Tail lights,Rear,Volkswagen Id. 6 Back Light Excellent Conditions for Sale,"እቃው በጣም ጥሩ ሁኔታ ላይ ይገኛል፤ ምንም አይነት ስብራት፣ ጭረት ወይም ጉዳት የለበትም። ሙሉ በሙሉ የሚሰራ ሲሆን ለመግጠም ዝግጁ ነው። ለመተካት ወይም ለጥጣና ተስማሚ ነው።
+አድራሻ፦ አዲስ አበባ፣ ልደታ
+ይደረጋል። ለተጨማሪ መረጃ በስልክ ያናግሩኝ",65000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/volkswagen-id-6-back-light-excellent-conditions-for-sale-uuIyRUMtzPlriD9NjcOevlvT.html,2026-11-19T07:20:01+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | Matched keyword 'back light' (position: Rear),High,True,Unspecified model year
+REC-JIJI-2AF45589,Volkswagen ID.6,,Unclassified / Other,Unspecified,Volkswagen ID6 Engine Hood ( የሞተር ኮፈን ),"Volkswagen 
+ID.4
+ID.6
+Engine hood 
+የሞተር ኮፈን 
+Location lideta nobi complex 
+አድራሻ ልደታ ኖቢ ኮምፕሌክስ 
+ ማንኛውም የEVመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",240000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/volkswagen-id6-engine-hood-yamotare-kofane-9SQz0WVvn7rltQlNg7b1RdTk.html,2026-11-19T07:20:04+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-72B65D9F,Volkswagen ID.6,,Brake pads,Front,Volkswagen Id4 Id6 Brake Pad (የፊት እግር ሸራ ),"Volkswagen 
+ID.4
+ID.6
+Brake pad 
+Location lideta nobi complex 
+አድራሻ ልደታ ኖቢ ኮምፕሌክስ 
+ ማንኛውም የEVመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",44999.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/volkswagen-id4-id6-brake-pad-yafite-egere-sharaa-95K0Dr0rQYkkDBVXPLEOajDh.html,2026-11-19T07:20:07+00:00,Volkswagen ID.6 (matched: 'id.6'),Volkswagen,,Source: Jiji listing | Found alias 'id.6' in text | Matched keyword 'የፊት እግር ሸራ' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-2CB2F0F3,Volkswagen ID.6,,Headlights,Unspecified,ID4/ID6 Headlamp New Original,ID4/ID6 Sper part new original,70000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id4-id6-headlamp-new-original-nsZo5WWLHChp7VpH8nhdHjq5.html,2026-11-19T07:20:09+00:00,Volkswagen ID.6 (matched: 'id.6'),Condition,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | Matched keyword 'headlamp' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-127F7184,Volkswagen ID.6,,Unclassified / Other,Unspecified,ID6/ID4 Door New Original,ID6/ID4 Door new Original,220000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id6-id4-door-new-original-ldvtMSG1Ts5wPNiKENFb0jzx.html,2026-11-19T07:20:12+00:00,Volkswagen ID.6 (matched: 'id.6'),Condition,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-A46458E5,Volkswagen ID.6,,Unclassified / Other,Front,ID6 Upper Front Panel Lock Carrier (Radiator Support Core Suppor New,ID6 upper front panel lock carrier (radiator support core suppor new,160000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id6-upper-front-panel-lock-carrier-radiator-support-core-suppor-new-yPcTl10KUSLO7MnKDdyOenCO.html,2026-11-19T07:20:15+00:00,Volkswagen ID.6 (matched: 'id.6'),Radiators,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-628305A4,Volkswagen ID.6,,Unclassified / Other,Unspecified,"Volkswagen ID.3,ID.4,ID.5and ID.6 Door Lock","Volkswagen ID.3,ID.4,ID.5and ID.6 Door lock Available",700.0,ETB,new,available,Biruk Mulugeta,"Addis Ababa, Bole, 23/10 17 views",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/volkswagen-id-3-id-4-id-5and-id-6-door-lock-qeo6mkD3fK2bzDhaP4c7ASmp.html,2026-11-19T07:20:17+00:00,Volkswagen ID.6 (matched: 'id.6'),Volkswagen,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-66F97C80,Volkswagen ID.6,,Bumpers (front and rear),Front,Volkswagen ID6 Front Bumper (የፊት ፓራወልት ),"Volkswagen 
+ID.6
+ID.4
+Front bumper complete 
+የፊት ፓራወልት ሙሉ 
+Location lideta nobi complex 
+አድራሻ ልደታ ኖቢ ኮምፕሌክስ 
+ ማንኛውም የEVመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",240000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/volkswagen-id6-front-bumper-yafite-paaraawalete-i7Y7HekTfYZRrcJSvT7nNN0q.html,2026-11-19T07:20:20+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | Matched keyword 'front bumper' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-FD150E62,Volkswagen ID.6,,Bumpers (front and rear),Unspecified,Bumper Volkswagen Id.6.,Bumper cover designed for a Volkswagen ID.6 new,240000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/bumper-volkswagen-id-6-peCbb2M775FQ4rin9JavlwiU.html,2026-11-19T07:20:22+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | Matched keyword 'bumper' (position: Unspecified),High,True,Unspecified model year
+REC-JIJI-B9446A60,Volkswagen ID.6,,Bumpers (front and rear),Front,Volkswagen Id4 Fron Bumper Complete (የፊት ፓራወልት ),"Volkswagen 
+ID.4
+ID.6
+Front bumper complete 
+የፊት ፓራኦልት የላይኛው
+Location lideta nobi complex channoli noodles 
+አድራሻ ልደታ ኖቢ ኮምፕሌክስ 
+ ማንኛውም የEvመኪና እቃ መለዋወጫ እኛ ጋር ያገኛሉ",250000.0,ETB,new,available,Ashe Ev Spare,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/volkswagen-id4-fron-bumper-complete-yafite-paaraawalete-rN82RyjYLhRP1x6upwIbmapk.html,2026-11-19T07:20:25+00:00,Volkswagen ID.6 (matched: 'id.6'),Volkswagen,,Source: Jiji listing | Found alias 'id.6' in text | Matched keyword 'የፊት ፓራወልት' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-127060F3,Volkswagen ID.6,,Unclassified / Other,Unspecified,ID6 Break Pad New Best Original,ID6 Break pad original new,27000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id6-break-pad-new-best-original-n3lvBLB8yR0HjG9Jiqrt3kLO.html,2026-11-19T07:20:28+00:00,Volkswagen ID.6 (matched: 'id.6'),Pad New Best,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-21C0E450,Volkswagen ID.6,,Fenders / body panels,Unspecified,ID6 Fender Original New,ID6 fender new original,75000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id6-fender-original-new-fDvumDXm0RPYAOFB3t8FwpLw.html,2026-11-19T07:20:30+00:00,Volkswagen ID.6 (matched: 'id.6'),ID6 Fender,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | Matched keyword 'fender' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-4B4CE5E0,Volkswagen ID.6,,Unclassified / Other,Unspecified,ID6 Tailight New Original,ID6 Tailight new Original,190000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id6-tailight-new-original-s4THZR2BFLtCwqvGxsLDahNx.html,2026-11-19T07:20:34+00:00,Volkswagen ID.6 (matched: 'id.6'),Condition,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-F74B5C96,Volkswagen ID.6,,Unclassified / Other,Unspecified,Volkswagen Id6 and Id4 Triangle Tyre,"235 50 R20 for id 6 and id 4 car tyre 
+Triangle brand 
+Best load index tyre 104W 
+Premium quality tyre",24500.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/volkswagen-id6-and-id4-triangle-tyre-iW7WZhVvhZmJ5RZLmOKnYVpP.html,2026-11-19T07:20:37+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-4DE4CBB8,Volkswagen ID.6,,Unclassified / Other,Unspecified,Lüko Gb/T 32a Ev Wall Charger – Brand New,"LÜKO GB/T 32A EV Wall Charger – Brand New
+Reliable AC charger for Electric vehicles.
+* 220V | 32A | Up to 7 kW
+* 9–11 hours from empty to full.
+* IP55 Waterproof & Dustproof
+* Ideal for Home & Commercial Use
+Compatible with: Toyota bZ3/bZ3x /bZ4x ,Volkswagen ID.4/ID.6 , BYD, NIO, XPeng, Zeekr, Aion, Geely, and more",70000.0,ETB,new,available,Dagmawi Girma,"Addis Ababa, Bole, 13/11 79 views",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/luko-gb-t-32a-ev-wall-charger-brand-new-zSA5ncGzNYoo2nx0ad64U5VC.html,2026-11-19T07:20:44+00:00,Volkswagen ID.6 (matched: 'id.6'),Toyota bZ3,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-FF415114,Volkswagen ID.6,,Tail lights,Unspecified,Vw Id6 Tail Light,Vw id6 tail light brand new,75000.0,ETB,new,available,Kal Spares,"Addis Ababa, Bole, 16/09 45 views",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/vw-id6-tail-light-hY15F8wCz56r66I5KdSS3Ata.html,2026-11-19T07:20:48+00:00,Volkswagen ID.6 (matched: 'vw id.6'),Condition,,Source: Jiji listing | Found alias 'vw id.6' in text | Matched keyword 'tail light' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-382DBCA5,Volkswagen ID.6,,Headlights,Unspecified,Id4 Id6 Volkswagon Power Window Main Switch,Id4 id6 volkswagen power window main switch,22500.0,ETB,new,available,YG AUTO & MACHINERY SPARE PART,"Addis Ababa, Kirkos, 06/09 18 views",,Jiji Ethiopia,https://jiji.com.et/kirkos/car-parts-and-accessories/id4-id6-volkswagon-power-window-main-switch-xa82AUKMfoy4uJztowYxuztI.html,2026-11-19T07:20:51+00:00,Volkswagen ID.6 (matched: 'id.6'),Volkswagon,,Source: Jiji listing | Found alias 'id.6' in text | Matched keyword 'headlights' (position: Unspecified),Medium,True,Unspecified model year
+REC-JIJI-5986984F,Volkswagen ID.6,,Unclassified / Other,Unspecified,Gold 55Ah Battery,"Korean Battery
+Gold 55Ah for 
+RAV4 , Volkswagen ID4, ID6 etc",17000.0,ETB,new,available,Citizens Trading PLC,"Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/gold-55ah-battery-yLaXBl3NOQTm0hSkrq3LoW7s.html,2026-11-19T07:20:59+00:00,Volkswagen ID.6 (matched: 'id.6'),Car Battery,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-6F127294,Volkswagen ID.6,,Unclassified / Other,Unspecified,265 45 R20 Volkswagen Id6 and Id4 Car Tyre Triangle Brand,"265 45 R20 
+Triangle brand 
+For Volkswagon id 6 and id 4 car tyre 
+Triangle brand 
+Premium quality tyre 
+For all seasons",25000.0,ETB,new,available,Tire Store,"Addis Ababa, Addis Ketema, 03/09 41 views",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/265-45-r20-volkswagen-id6-and-id4-car-tyre-triangle-brand-majP6ph8MAm4FO9i1aJzhL8R.html,2026-11-19T07:21:03+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-4B087EBA,Volkswagen ID.6,,Bumpers (front and rear),Front,Vw Id6 Original Front Bumper,Vw id6 original front bumper,265950.0,ETB,new,available,YG AUTO & MACHINERY SPARE PART,"Addis Ababa, Kirkos, 19/09 54 views",,Jiji Ethiopia,https://jiji.com.et/kirkos/car-parts-and-accessories/vw-id6-original-front-bumper-5v76LtUmOJJQyiqMxAnToQj5.html,2026-11-19T07:21:10+00:00,Volkswagen ID.6 (matched: 'vw id.6'),Condition,Original / OEM,Source: Jiji listing | Found alias 'vw id.6' in text | Matched keyword 'front bumper' (position: Front),Medium,True,Unspecified model year
+REC-JIJI-5543E7D0,Volkswagen ID.6,,Unclassified / Other,Rear,265 45 R20 Triangle Brand Volkswagen Id6 Rear Tyre,"265 45 R20 
+Volkswagen id6 and id4 car tire
+Triangle brand Volkswagen id6 rear tyre",24000.0,ETB,new,available,Tire Store,"Addis Ababa, Addis Ketema, 27/08 30 views",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/265-45-r20-triangle-brand-volkswagen-id6-rear-tyre-i1u8wjLE7wHgqveDGZjfvOUg.html,2026-11-19T07:21:13+00:00,Volkswagen ID.6 (matched: 'volkswagen id.6'),Volkswagen,,Source: Jiji listing | Found alias 'volkswagen id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-B5E8E7CA,Unknown / Non-Target,,Fenders / body panels,Unspecified,I'd4/I'd6 Inner Fender,I'd6 or i'd4 inner fender orginal,34000.0,ETB,new,available,Spare Part,"Addis Ababa, Gullele, 12/09 130 views",,Jiji Ethiopia,https://jiji.com.et/gullele/car-parts-and-accessories/id4-id6-inner-fender-9USxyJQKxjjkrGf4BB5ajxc.html,2026-11-19T07:21:16+00:00,All ads > Vehicles > Vehicle Parts & Accessories > Car Fenders > I'd4/I'd6 Inner Fender,Condition,,Source: Jiji listing | No target EV vehicle aliases found | Matched keyword 'fender' (position: Unspecified),Low,True,Unspecified model year; Uncertain vehicle compatibility; Low algorithm confidence score
+REC-JIJI-3D331FFB,Volkswagen ID.6,,Unclassified / Other,Unspecified,Volkswagon ID Family Door Handles,"Volkswagen wagon ID.4 ,ID.5, ID.6 Door handles",30000.0,ETB,new,available,Biruk Mulugeta,"Addis Ababa, Bole, 07/10 46 views",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/volkswagon-id-family-door-handles-fXQLMFNF2L5XVllQBH3Ri2T2.html,2026-11-19T07:21:19+00:00,Volkswagen ID.6 (matched: 'id.6'),Volkswagen,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-3B05A593,Volkswagen ID.6,,Unclassified / Other,Unspecified,Level 2 EV Charger 32A(max) Original,"Level 2 EV Charger 32A(max) Original 
+Power converter for travel charging 
+ heat sensor, short circuit sensor and timer included
+Works for VW ID.4, ID.6, ID.3, CHR Electric, Honda and Audi, BYD All models... 
+Fast Charging with 32 A
+Price : 71,000 Birr only",71000.0,ETB,new,available,Birhanu Tadesse,"Addis Ababa, Bole, 27/10 32 views",,Jiji Ethiopia,https://jiji.com.et/bole/car-parts-and-accessories/level-2-ev-charger-32a-max-original-dffUcWBqOnhQHTkflInth2cv.html,2026-11-19T07:21:28+00:00,Volkswagen ID.6 (matched: 'id.6'),Condition,Original / OEM,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-F197BE48,Volkswagen ID.6,,Unclassified / Other,Unspecified,የ Id 6 Cover/ የመኪና ልብስ,"ዉሃ የማያስገባ የመኪና ሽፋን/Waterproof 
+DESCRIPTION 
+መኪና መሸፈኛ በተመጣጣኝ ዋጋ (water proof car cover)
+ያሉበት ቦታ በነፃ እናደርሳለን(free delivery)100%
+ልዩነቱ 1ኛ. Waterproof 
+ 2ኛ. UV sunlight 
+�ለዝናብ for rain 
+�ለ ፀሀይ for sun 
+�ለ አባራ መከላከያ የሚሆን 
+1. ከፍተኛ ጥራት ካለው ማቴሪያል የተሰራ ፣ በግልጋሎት ብዛት ከሚመጣ መጫጫር የሚቋቋም ፣ መኪናዎን ከማንኛውም የአየር ሁኔታ ይጠብቁ (ከቆሻሻ ፣ ከዛፍ እርጋፊ ፣ ከአእዋፍ ጠብታዎች እና የመሳሰሉትን ይከላከላል።
+2. ጨርቁ ከፍተኛ ውሃን የማያስተላልፍ ሲሆን UV የፀሐይ ጨረርን የሚቋቋም ንብርብር የመኪናውን ሽፋን ፌድ እንዳይሆን ይከላከላል.
+3. ኃይለኛ ንፋስን መቋቋም የሚችል 
+4. ከተስማሚ መያዣ ቦርሳ ጋር ይመጣል
+ ያሉበት ቦታ በነፃ እናደርሳለን �� Show more",16500.0,ETB,new,available,yabsira,"Promoted Addis Ababa, Yeka",,Jiji Ethiopia,https://jiji.com.et/yeka/car-parts-and-accessories/ya-id-6-cover-yamakinaa-lebese-rJMmTRug7oFwaADpfUffqjZF.html,2026-11-19T07:21:40+00:00,Volkswagen ID.6 (matched: 'id.6'),Car Covers,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-B19382EC,Volkswagen ID.6,,Unclassified / Other,Unspecified,Id6 Id4 Car Cover / የመኪና ልብስ,"ዉሃ የማያስገባ የመኪና ሽፋን/Waterproof 
+DESCRIPTION 
+መኪና መሸፈኛ በተመጣጣኝ ዋጋ (water proof car cover)
+ያሉበት ቦታ በነፃ እናደርሳለን(free delivery)100%
+ልዩነቱ 1ኛ. Waterproof 
+ 2ኛ. UV sunlight 
+�ለዝናብ for rain 
+�ለ ፀሀይ for sun 
+�ለ አባራ መከላከያ የሚሆን 
+1. ከፍተኛ ጥራት ካለው ማቴሪያል የተሰራ ፣ በግልጋሎት ብዛት ከሚመጣ መጫጫር የሚቋቋም ፣ መኪናዎን ከማንኛውም የአየር ሁኔታ ይጠብቁ (ከቆሻሻ ፣ ከዛፍ እርጋፊ ፣ ከአእዋፍ ጠብታዎች እና የመሳሰሉትን ይከላከላል።
+2. ጨርቁ ከፍተኛ ውሃን የማያስተላልፍ ሲሆን UV የፀሐይ ጨረርን የሚቋቋም ንብርብር የመኪናውን ሽፋን ፌድ እንዳይሆን ይከላከላል.
+3. ኃይለኛ ንፋስን መቋቋም የሚችል 
+4. ከተስማሚ መያዣ ቦርሳ ጋር ይመጣል
+ ያሉበት ቦታ በነፃ እናደርሳለን Show more",15500.0,ETB,new,available,yabsira,"Promoted Addis Ababa, Yeka",,Jiji Ethiopia,https://jiji.com.et/yeka/car-parts-and-accessories/id6-id4-car-cover-yamakinaa-lebese-eUI32McsRahC4UEoU9wYaqHj.html,2026-11-19T07:21:44+00:00,Volkswagen ID.6 (matched: 'id.6'),Car Covers,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-A00598D5,Volkswagen ID.6,,Unclassified / Other,Unspecified,Id6 Id4 Tire Size,ID6 iD4 tire size new,145000.0,ETB,new,available,MBS,"Promoted Addis Ababa, Lideta",,Jiji Ethiopia,https://jiji.com.et/lideta/car-parts-and-accessories/id6-id4-tire-size-d4SwRYluidOz8FdDqqJQd2Jb.html,2026-11-19T07:21:47+00:00,Volkswagen ID.6 (matched: 'id.6'),Id6 Id4 Tire,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-93911871,Volkswagen ID.6,,Unclassified / Other,Unspecified,Car Tyre Goma,"235 50 R20 
+For id 6 car best quality tyre 
+104w load index 
+Very good tyre for id6 car",28000.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/car-tyre-goma-ARsPt2bzCEEwMchQaS1MqGKk.html,2026-11-19T07:21:54+00:00,Volkswagen ID.6 (matched: 'id.6'),Condition,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-BB2C6CEA,Volkswagen ID.6,,Unclassified / Other,Unspecified,X-Pro Car Battery 50amp,"X-pro original car battery 50 amp
+For Id 6
+Id 4
+Bz4x
+Bz3x...",29000.0,ETB,new,available,Aklile Tsion,"Addis Ababa, Yeka",,Jiji Ethiopia,https://jiji.com.et/yeka/car-parts-and-accessories/x-pro-car-battery-50amp-nh67NUExpzESNlPpQ0xARaf.html,2026-11-19T07:22:02+00:00,Volkswagen ID.6 (matched: 'id.6'),Car Battery,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score
+REC-JIJI-4FF9CF6A,Volkswagen ID.6,,Unclassified / Other,Unspecified,Car Battery Electric,"55ampir 12volt battery for id 6 id 4 car battery 
+ best quality 
+For more information 
+Text me",21000.0,ETB,new,available,Hailemichael Mg,"Promoted Addis Ababa, Addis Ketema",,Jiji Ethiopia,https://jiji.com.et/addis-ketema/car-parts-and-accessories/car-battery-electric-mm6RfLQCJvE4ilZIxwadyxTx.html,2026-11-19T07:22:05+00:00,Volkswagen ID.6 (matched: 'id.6'),Car Battery,,Source: Jiji listing | Found alias 'id.6' in text | No matching spare part keywords found,Low,True,Unspecified model year; Unclassified part category; Low algorithm confidence score

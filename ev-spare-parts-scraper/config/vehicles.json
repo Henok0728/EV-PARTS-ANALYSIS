@@ -1,0 +1,76 @@
+{
+  "vehicles": [
+    {
+      "canonical_name": "BYD Seagull",
+      "manufacturer": "BYD",
+      "aliases": [
+        "byd seagull",
+        "seagull",
+        "dolphin mini",
+        "atto 1",
+        "byd dolphin mini",
+        "በይድ ሲጋል",
+        "ሲጋል"
+      ],
+      "negative_patterns": [
+        "\\bbyd\\s*seal\\b",
+        "\\bbyd\\s*song\\b",
+        "\\bbyd\\s*han\\b",
+        "\\bbyd\\s*tang\\b"
+      ],
+      "typical_years": ["2023", "2024", "2025"],
+      "platform": "BYD e-Platform 3.0",
+      "ev_type": "BEV"
+    },
+    {
+      "canonical_name": "BYD Yuan Up",
+      "manufacturer": "BYD",
+      "aliases": [
+        "byd yuan up",
+        "yuan up",
+        "atto 2",
+        "byd atto 2",
+        "ዩዋን አፕ",
+        "ይዋን አፕ"
+      ],
+      "negative_patterns": [
+        "\\byuan\\s*plus\\b",
+        "\\batto\\s*3\\b",
+        "\\byuan\\s*pro\\b"
+      ],
+      "typical_years": ["2024", "2025"],
+      "platform": "BYD e-Platform 3.0",
+      "ev_type": "BEV"
+    },
+    {
+      "canonical_name": "Volkswagen ID.6",
+      "manufacturer": "Volkswagen",
+      "aliases": [
+        "volkswagen id.6",
+        "volkswagen id6",
+        "vw id.6",
+        "vw id6",
+        "id.6 crozz",
+        "id.6 x",
+        "id6 crozz",
+        "id6 x",
+        "id.6",
+        "id6",
+        "ፎልክስዋገን አይዲ 6",
+        "አይዲ 6"
+      ],
+      "negative_patterns": [
+        "\\bvolkswagen\\s*id\\.?\\s*[34]\\b",
+        "\\bvw\\s*id\\.?\\s*[34]\\b",
+        "\\bid\\.?\\s*[34]\\b(?!.*id\\.?\\s*6)",
+        "\\bid\\.?\\s*buzz\\b",
+        "\\bcaller\\s*id\\b",
+        "\\bid\\s*card\\b",
+        "\\bnational\\s*id\\b"
+      ],
+      "typical_years": ["2021", "2022", "2023", "2024", "2025"],
+      "platform": "Volkswagen MEB Platform",
+      "ev_type": "BEV"
+    }
+  ]
+}

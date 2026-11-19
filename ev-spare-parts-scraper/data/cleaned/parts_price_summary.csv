@@ -1,0 +1,33 @@
+﻿vehicle_model,part_category,marketplace,number_of_listings,distinct_sellers,minimum_price_etb,median_price_etb,mean_price_etb,maximum_price_etb,price_range_etb,missing_prices_count
+BYD Seagull,Brake discs / rotors,Adey Market,1,1,"32,000","32,000","32,000","32,000","32,000 - 32,000",0
+BYD Seagull,Brake pads,Adey Market,1,1,"26,500","26,500","26,500","26,500","26,500 - 26,500",0
+BYD Seagull,Brake pads,Jiji Ethiopia,2,1,"28,000","28,000","28,000","28,000","28,000 - 28,000",0
+BYD Seagull,Bumpers (front and rear),Jiji Ethiopia,6,3,"95,000","169,000","162,166","220,000","95,000 - 220,000",0
+BYD Seagull,Cabin air filters,Adey Market,1,1,"3,800","3,800","3,800","3,800","3,800 - 3,800",0
+BYD Seagull,Fenders / body panels,Jiji Ethiopia,4,2,"22,000","61,000","84,750","195,000","22,000 - 195,000",0
+BYD Seagull,Headlights,Jiji Ethiopia,10,3,"82,000","127,500","134,000","218,000","82,000 - 218,000",0
+BYD Seagull,Shock absorbers,Jiji Ethiopia,2,1,"58,000","64,000","64,000","70,000","58,000 - 70,000",0
+BYD Seagull,Side mirrors,Jiji Ethiopia,1,1,"55,000","55,000","55,000","55,000","55,000 - 55,000",0
+BYD Seagull,Tail lights,Jiji Ethiopia,2,2,"55,000","85,000","85,000","115,000","55,000 - 115,000",0
+BYD Seagull,Unclassified / Other,Jiji Ethiopia,12,6,"3,300","14,000","46,508","220,000","3,300 - 220,000",0
+BYD Yuan Up,Bumpers (front and rear),Adey Market,1,1,"165,000","165,000","165,000","165,000","165,000 - 165,000",0
+BYD Yuan Up,Bumpers (front and rear),Jiji Ethiopia,3,3,"185,000","200,000","198,333","210,000","185,000 - 210,000",0
+BYD Yuan Up,Fenders / body panels,Jiji Ethiopia,2,2,"55,200","146,600","146,600","238,000","55,200 - 238,000",0
+BYD Yuan Up,Headlights,Jiji Ethiopia,1,1,"240,000","240,000","240,000","240,000","240,000 - 240,000",0
+BYD Yuan Up,Side mirrors,Adey Market,1,1,"14,500","14,500","14,500","14,500","14,500 - 14,500",0
+BYD Yuan Up,Side mirrors,Jiji Ethiopia,3,2,"12,000","48,000","46,667","80,000","12,000 - 80,000",0
+BYD Yuan Up,Tail lights,Jiji Ethiopia,1,1,"170,000","170,000","170,000","170,000","170,000 - 170,000",0
+BYD Yuan Up,Unclassified / Other,Jiji Ethiopia,8,4,"2,000","30,000","58,938","190,000","2,000 - 190,000",0
+BYD Yuan Up,Wiper blades,Adey Market,1,1,"4,500","4,500","4,500","4,500","4,500 - 4,500",0
+Unknown / Non-Target,Fenders / body panels,Jiji Ethiopia,1,1,"34,000","34,000","34,000","34,000","34,000 - 34,000",0
+Volkswagen ID.6,Brake pads,Jiji Ethiopia,1,1,"44,999","44,999","44,999","44,999","44,999 - 44,999",0
+Volkswagen ID.6,Bumpers (front and rear),Jiji Ethiopia,6,3,"240,000","245,000","252,658","280,000","240,000 - 280,000",0
+Volkswagen ID.6,Fenders / body panels,Adey Market,1,1,"72,000","72,000","72,000","72,000","72,000 - 72,000",0
+Volkswagen ID.6,Fenders / body panels,Jiji Ethiopia,2,2,"75,000","157,500","157,500","240,000","75,000 - 240,000",0
+Volkswagen ID.6,Headlights,Adey Market,1,1,"145,000","145,000","145,000","145,000","145,000 - 145,000",0
+Volkswagen ID.6,Headlights,Jiji Ethiopia,2,2,"22,500","46,250","46,250","70,000","22,500 - 70,000",0
+Volkswagen ID.6,Shock absorbers,Adey Market,1,1,"88,000","88,000","88,000","88,000","88,000 - 88,000",0
+Volkswagen ID.6,Shock absorbers,Jiji Ethiopia,1,1,"65,000","65,000","65,000","65,000","65,000 - 65,000",0
+Volkswagen ID.6,Tail lights,Adey Market,1,1,"95,000","95,000","95,000","95,000","95,000 - 95,000",0
+Volkswagen ID.6,Tail lights,Jiji Ethiopia,3,3,"65,000","75,000","75,000","85,000","65,000 - 85,000",0
+Volkswagen ID.6,Unclassified / Other,Jiji Ethiopia,22,10,700,"27,500","68,236","240,000","700 - 240,000",0

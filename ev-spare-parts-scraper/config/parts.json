@@ -1,0 +1,291 @@
+{
+  "parts": [
+    {
+      "id": "brake_pads",
+      "canonical_name": "Brake pads",
+      "keywords": [
+        "brake pad",
+        "brake pads",
+        "disc pad",
+        "disc pads",
+        "front brake pad",
+        "rear brake pad",
+        "brakepad",
+        "brakepads",
+        "ፍሬን ሸራ",
+        "የፊት እግር ሸራ",
+        "የኋላ እግር ሸራ",
+        "ሸራ"
+      ],
+      "negative_keywords": [
+        "brake disc",
+        "brake rotor",
+        "brake fluid",
+        "brake caliper",
+        "handbrake"
+      ],
+      "scoring_factors": {
+        "demand_weight": 4.5,
+        "scarcity_weight": 3.0,
+        "sourcing_practicality": 4.5
+      }
+    },
+    {
+      "id": "brake_discs_rotors",
+      "canonical_name": "Brake discs / rotors",
+      "keywords": [
+        "brake disc",
+        "brake discs",
+        "brake rotor",
+        "brake rotors",
+        "rotor",
+        "rotors",
+        "disc rotor",
+        "brake drum",
+        "ፍሬን ዲስክ",
+        "ዲስክ"
+      ],
+      "negative_keywords": [
+        "brake pad",
+        "disc pad",
+        "clutch disc"
+      ],
+      "scoring_factors": {
+        "demand_weight": 3.5,
+        "scarcity_weight": 3.5,
+        "sourcing_practicality": 3.0
+      }
+    },
+    {
+      "id": "cabin_air_filters",
+      "canonical_name": "Cabin air filters",
+      "keywords": [
+        "cabin air filter",
+        "cabin filter",
+        "ac filter",
+        "a/c filter",
+        "air conditioning filter",
+        "pollen filter",
+        "hepa cabin filter",
+        "ካቢን ፊልተር",
+        "የኤሲ ፊልተር"
+      ],
+      "negative_keywords": [
+        "engine oil filter",
+        "fuel filter",
+        "transmission filter"
+      ],
+      "scoring_factors": {
+        "demand_weight": 4.0,
+        "scarcity_weight": 2.5,
+        "sourcing_practicality": 5.0
+      }
+    },
+    {
+      "id": "wiper_blades",
+      "canonical_name": "Wiper blades",
+      "keywords": [
+        "wiper blade",
+        "wiper blades",
+        "windshield wiper",
+        "windscreen wiper",
+        "front wiper",
+        "rear wiper",
+        "wiper rubber",
+        "ዋይፐር",
+        "የመስታወት መጥረጊያ"
+      ],
+      "negative_keywords": [
+        "wiper motor",
+        "wiper arm only"
+      ],
+      "scoring_factors": {
+        "demand_weight": 4.0,
+        "scarcity_weight": 2.0,
+        "sourcing_practicality": 5.0
+      }
+    },
+    {
+      "id": "headlights",
+      "canonical_name": "Headlights",
+      "keywords": [
+        "headlight",
+        "headlights",
+        "headlamp",
+        "headlamps",
+        "front lamp",
+        "front light",
+        "led headlight",
+        "head light",
+        "headlight assembly",
+        "የፊት ማብራት",
+        "የፊት መብራት",
+        "ፋሮ"
+      ],
+      "negative_keywords": [
+        "tail light",
+        "taillight",
+        "rear lamp",
+        "fog lamp only"
+      ],
+      "scoring_factors": {
+        "demand_weight": 4.0,
+        "scarcity_weight": 4.5,
+        "sourcing_practicality": 2.5
+      }
+    },
+    {
+      "id": "tail_lights",
+      "canonical_name": "Tail lights",
+      "keywords": [
+        "tail light",
+        "tail lights",
+        "taillight",
+        "taillights",
+        "rear lamp",
+        "rear light",
+        "back lamp",
+        "back light",
+        "led tail light",
+        "brake lamp",
+        "tail lamp assembly",
+        "የኋላ መብራት",
+        "የኋላ ማብራት",
+        "የዋላ ፊረቻ",
+        "ፊረቻ",
+        "ስቶፕ"
+      ],
+      "negative_keywords": [
+        "headlight",
+        "headlamp",
+        "front lamp"
+      ],
+      "scoring_factors": {
+        "demand_weight": 3.5,
+        "scarcity_weight": 4.0,
+        "sourcing_practicality": 3.0
+      }
+    },
+    {
+      "id": "side_mirrors",
+      "canonical_name": "Side mirrors",
+      "keywords": [
+        "side mirror",
+        "side mirrors",
+        "door mirror",
+        "wing mirror",
+        "side view mirror",
+        "rearview mirror",
+        "mirror glass",
+        "mirror assembly",
+        "bsd mirror",
+        "የጎን ስፖክይ",
+        "ስፖክዮ",
+        "ስፖኪዮ",
+        "የጎን መስታወት"
+      ],
+      "negative_keywords": [
+        "rear view mirror interior",
+        "interior mirror"
+      ],
+      "scoring_factors": {
+        "demand_weight": 4.5,
+        "scarcity_weight": 4.0,
+        "sourcing_practicality": 3.5
+      }
+    },
+    {
+      "id": "bumpers",
+      "canonical_name": "Bumpers (front and rear)",
+      "keywords": [
+        "bumper",
+        "bumpers",
+        "front bumper",
+        "rear bumper",
+        "bumper cover",
+        "bumper reinforcement",
+        "bumper assembly",
+        "ፓራወልት",
+        "ፓራኦልት",
+        "ፓራዋልት",
+        "የፊት ፓራወልት",
+        "የኋላ ፓራወልት",
+        "የዉሃላ ፓራወልት"
+      ],
+      "negative_keywords": [
+        "bumper clip",
+        "bumper sticker"
+      ],
+      "scoring_factors": {
+        "demand_weight": 4.5,
+        "scarcity_weight": 4.5,
+        "sourcing_practicality": 1.5
+      }
+    },
+    {
+      "id": "fenders_body_panels",
+      "canonical_name": "Fenders / body panels",
+      "keywords": [
+        "fender",
+        "fenders",
+        "front fender",
+        "rear fender",
+        "quarter panel",
+        "wing",
+        "mudguard",
+        "body panel",
+        "door skeleton",
+        "door panel",
+        "ፊንደር",
+        "ፋንደር",
+        "የጎን በር"
+      ],
+      "negative_keywords": [
+        "fender liner clip only",
+        "fender flare sticker"
+      ],
+      "scoring_factors": {
+        "demand_weight": 3.0,
+        "scarcity_weight": 4.0,
+        "sourcing_practicality": 2.0
+      }
+    },
+    {
+      "id": "shock_absorbers",
+      "canonical_name": "Shock absorbers",
+      "keywords": [
+        "shock absorber",
+        "shock absorbers",
+        "shock",
+        "shocks",
+        "damper",
+        "dampers",
+        "suspension strut",
+        "strut assembly",
+        "front shock",
+        "rear shock",
+        "air suspension shock",
+        "አሞርዛተር",
+        "አሞርሳተር",
+        "የፊት እግር አሞርዛተር",
+        "የኋላ እግር አሞርዛተር"
+      ],
+      "negative_keywords": [
+        "shock mount only",
+        "shock dust cover only"
+      ],
+      "scoring_factors": {
+        "demand_weight": 4.5,
+        "scarcity_weight": 4.0,
+        "sourcing_practicality": 2.5
+      }
+    }
+  ],
+  "positions": [
+    { "id": "front", "terms": ["front", "fwd", "ፊት", "የፊት"] },
+    { "id": "rear", "terms": ["rear", "back", "ኋላ", "የኋላ", "የዋላ", "የዉሃላ"] },
+    { "id": "left", "terms": ["left", "lh", "driver side", "ግራ", "የግራ"] },
+    { "id": "right", "terms": ["right", "rh", "passenger side", "ቀኝ", "የቀኝ"] },
+    { "id": "pair", "terms": ["pair", "set", "both", "2pcs", "2 pieces", "ጥንድ", "ግራና ቀኝ", "ፊትና ኋላ"] }
+  ]
+}
